@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+Weather Stats for - ODISHA  || 22 Jun 2021 | 01:44:37 PM
+-------------------------------------------------------------
+Current temperature is: 31.01 deg C
+Current weather desc  : overcast clouds 
+Current Humidity      : 46 %
+Current wind speed    : 0.94 kmph
+-------------------------------------------------------------
+Weather Stats for - GOA  || 22 Jun 2021 | 01:44:44 PM
+-------------------------------------------------------------
+Current temperature is: 29.23 deg C
+Current weather desc  : overcast clouds 
+Current Humidity      : 67 %
+Current wind speed    : 3.51 kmph
+-------------------------------------------------------------
+Weather Stats for - INDIA  || 22 Jun 2021 | 01:45:03 PM
+-------------------------------------------------------------
+Current temperature is: 20.29 deg C
+Current weather desc  : scattered clouds 
+Current Humidity      : 59 %
+Current wind speed    : 1.77 kmph
